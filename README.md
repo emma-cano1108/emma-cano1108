@@ -1,16 +1,122 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**emma-cano1108/emma-cano1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="fastfetch output: Emmanuel Cano, Backend Developer. Systems Engineering student at EAFIT University, based in Colombia." src="assets/fastfetch-dark.svg" width="900">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/emmanuel-cano-9ba7b62ba">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-emmanuel--cano-cba6f7?style=flat-square&logo=linkedin&logoColor=1e1e2e&labelColor=313244">
+</a>
+<a href="mailto:emmanuelcanor1108@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-emmanuelcanor1108@gmail.com-89b4fa?style=flat-square&logo=gmail&logoColor=1e1e2e&labelColor=313244">
+</a>
+
+</div>
+
+<br>
+
+<!-- ───────────────────────── STACK ───────────────────────── -->
+
+<h3 align="center">⌘ stack</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi&theme=light">
+        <img alt="Python, FastAPI" src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" height="44">
+      </picture>
+    </td>
+    <td><sub>Python · FastAPI</sub></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
+        <img alt="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" height="44">
+      </picture>
+    </td>
+    <td><sub>JavaScript</sub></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light">
+        <img alt="PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="44">
+      </picture>
+    </td>
+    <td><sub>PostgreSQL · MongoDB · Redis (caching)</sub></td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,linux&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,linux&theme=light">
+        <img alt="Docker, Git, Linux" src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="44">
+      </picture>
+    </td>
+    <td><sub>Docker · Git · Linux</sub></td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws&theme=light">
+        <img alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" height="44">
+      </picture>
+    </td>
+    <td><sub>AWS · currently learning</sub></td>
+  </tr>
+</table>
+
+<sub>Currently focused on <b>DevOps</b> · <b>Linux server management</b> · <b>backend development</b> · <b>AWS</b> · <b>AI agent orchestration</b></sub>
+
+</div>
+
+<br>
+
+<!-- ───────────────────────── ACTIVITY ───────────────────────── -->
+
+<h3 align="center">⌘ activity</h3>
+
+<div align="center">
+
+<img alt="Commits" src="https://ghstats.dev/api/mini?username=emma-cano1108&metric=commits&color=cba6f7&style=flat-square">
+<img alt="Pull requests" src="https://ghstats.dev/api/mini?username=emma-cano1108&metric=prs&color=89b4fa&style=flat-square">
+<img alt="Issues" src="https://ghstats.dev/api/mini?username=emma-cano1108&metric=issues&color=94e2d5&style=flat-square">
+<img alt="Streak" src="https://ghstats.dev/api/mini?username=emma-cano1108&metric=streak&color=fab387&style=flat-square">
+<img alt="Contributions" src="https://ghstats.dev/api/mini?username=emma-cano1108&metric=contributions&color=f5c2e7&style=flat-square">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/sparkline?username=emma-cano1108&days=30&width=420&line_color=cba6f7&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/sparkline?username=emma-cano1108&days=30&width=420&line_color=8839ef&hide_border=true">
+  <img alt="Contribution activity over the last 30 days" src="https://ghstats.dev/api/sparkline?username=emma-cano1108&days=30&width=420&line_color=cba6f7&hide_border=true">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=emma-cano1108&layout=compact&max_langs=6&custom_title=Top%20Languages&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&border_color=313244&border_radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=emma-cano1108&layout=compact&max_langs=6&custom_title=Top%20Languages&bg=eff1f5&text=4c4f69&title_color=8839ef&border_color=ccd0da&border_radius=8">
+  <img alt="Top languages" src="https://ghstats.dev/api/langs?username=emma-cano1108&layout=compact&max_langs=6&custom_title=Top%20Languages&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&border_color=313244&border_radius=8" width="420">
+</picture>
+
+</div>
+
+<br>
+
+<p align="center">
+  <sub><code>❯ building reliable backends, one layer at a time</code></sub>
+</p>
