@@ -17,67 +17,17 @@
 
 <!-- ───────────────────────── STACK ───────────────────────── -->
 
-<h3 align="center">⌘ stack</h3>
+<h3 align="center">STACK</h3>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi&theme=light">
-        <img alt="Python, FastAPI" src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" height="44">
-      </picture>
-    </td>
-    <td><sub>Python · FastAPI</sub></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
-        <img alt="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" height="44">
-      </picture>
-    </td>
-    <td><sub>JavaScript</sub></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light">
-        <img alt="PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="44">
-      </picture>
-    </td>
-    <td><sub>PostgreSQL · MongoDB · Redis (caching)</sub></td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,linux&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,linux&theme=light">
-        <img alt="Docker, Git, Linux" src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="44">
-      </picture>
-    </td>
-    <td><sub>Docker · Git · Linux</sub></td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws&theme=light">
-        <img alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" height="44">
-      </picture>
-    </td>
-    <td><sub>AWS · currently learning</sub></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,aws,docker,git,linux,postgres,mongodb,redis,js&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi,aws,docker,git,linux,postgres,mongodb,redis,js&theme=light">
+  <img alt="Python, FastAPI, AWS, Docker, Git, Linux, PostgreSQL, MongoDB, Redis, JavaScript" src="https://skillicons.dev/icons?i=py,fastapi,aws,docker,git,linux,postgres,mongodb,redis,js&theme=dark">
+</picture>
+
+<br><br>
 
 <sub>Currently focused on <b>DevOps</b> · <b>Linux server management</b> · <b>backend development</b> · <b>AWS</b> · <b>AI agent orchestration</b></sub>
 
@@ -117,6 +67,3 @@
 
 <br>
 
-<p align="center">
-  <sub><code>❯ building reliable backends, one layer at a time</code></sub>
-</p>
